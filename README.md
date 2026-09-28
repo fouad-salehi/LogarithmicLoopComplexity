@@ -4,6 +4,9 @@
 ![Topic](https://img.shields.io/badge/Topic-Algorithm%20Analysis-green)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<img width="1671" height="836" alt="Logarithmic Loop Complexity Proof and Teaching Applications" src="https://github.com/user-attachments/assets/ddfadf63-6064-4a64-aa49-e3ed3577f00c" />
+
+
 ## Proof and Teaching Applications
 
 This repository contains the research paper:
