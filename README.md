@@ -105,12 +105,6 @@ This work may be useful for:
 * Programmers interested in asymptotic complexity
 * Anyone studying mathematical analysis of iterative algorithms
 
-## License
-
-This project is distributed under the MIT License.
-
-See the [`LICENSE`](./LICENSE) file for details.
-
 ## Citation
 
 If you use this work in academic research, teaching materials, or related projects, please cite the paper appropriately.
@@ -121,4 +115,10 @@ Logarithmic Loop Complexity: Proof and Teaching Applications
 
 ## Author
 
-Fouad Salehi
+[**Fouad Salehi**](https://github.com/fouad-salehi)
+
+## License
+
+This project is distributed under the MIT License.
+
+See the [LICENSE](./LICENSE) file for details.
