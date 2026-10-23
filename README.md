@@ -1,11 +1,11 @@
 # LogarithmicLoopComplexity
+
 ![File Type](https://img.shields.io/badge/File-PDF-red)
 ![Document](https://img.shields.io/badge/Type-Academic%20Article-blue)
 ![Topic](https://img.shields.io/badge/Topic-Algorithm%20Analysis-green)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <img width="1671" height="836" alt="Logarithmic Loop Complexity Proof and Teaching Applications" src="https://github.com/user-attachments/assets/ddfadf63-6064-4a64-aa49-e3ed3577f00c" />
-
 
 ## Proof and Teaching Applications
 
@@ -21,7 +21,9 @@ Logarithmic loops are frequently encountered in algorithms and programming. Howe
 
 This work develops a rigorous framework for analyzing logarithmic loops and provides mathematical proofs for their asymptotic behavior. It also discusses teaching applications aimed at helping students understand the underlying reasoning rather than relying solely on memorized complexity patterns.
 
-The main objective is to establish a clear connection between loop behavior, mathematical growth, and asymptotic complexity.
+> [!NOTE]
+> The main objective is to establish a clear connection between loop behavior,
+> mathematical growth, and asymptotic complexity.
 
 ## Main Topics
 
@@ -110,7 +112,9 @@ This work may be useful for:
 
 ## Citation
 
-If you use this work in academic research, teaching materials, or related projects, please cite the paper appropriately.
+> [!TIP]
+> If you use this work in academic research, teaching materials, or related projects,
+> please cite the paper appropriately.
 
 ```text
 Logarithmic Loop Complexity: Proof and Teaching Applications
